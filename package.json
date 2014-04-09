@@ -1,0 +1,8 @@
+{
+	"name"       : "vifros-common",
+	"version"    : "0.0.0",
+	"description": "",
+	"private"    : true,
+	"main"       : "index.js",
+	"license"    : "MIT"
+}
